@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+    width: 200px;
+   border: 2px solid blue;
+   justify-content: space-between;
+}
+.snack2{
+    border: 1px solid black;
+    width: 202px;
+    margin: auto;
+    text-align: center;
+}
+h2{
+    color: blue;
+}
